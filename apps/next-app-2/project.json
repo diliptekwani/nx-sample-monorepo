@@ -23,7 +23,8 @@
       "defaultConfiguration": "development",
       "options": {
         "buildTarget": "next-app-2:build",
-        "dev": true
+        "dev": true,
+        "port": 4204
       },
       "configurations": {
         "development": {
